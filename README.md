@@ -1,4 +1,4 @@
 ### Hi there  
 <br/>**lvm00306/lvm00306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br/>Here are some ideas to get you started:
-<br/>-   I’m currently working on ...<br/>-  I’m currently learning ...<br/>-   I’m looking to collaborate on ...<br/>-   I’m looking for help with ...<br/>-   Ask me about ...<br/>-   How to reach me: ...<br/>-   Pronouns: ...<br/>- ⚡ Fun fact: ...<br/>
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=lvm0306)]()
